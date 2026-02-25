@@ -21,7 +21,7 @@ codes for streaming camera in station
 
 3- Enter Color Filters directory : cd Color Filters                                                                                                          
 
-4- run station_reciver file : python3 station_reciever\
+4- run station_reciver file : python3 station_reciever
 
 
 
