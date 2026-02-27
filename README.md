@@ -1,7 +1,7 @@
 # streaming_cameras
 codes for streaming camera in station 
 
-# In rpi inside rov
+# In rpi inside rov:
 
 1- In home directory enter old_vision directory : cd old_pi
 
